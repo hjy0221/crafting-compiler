@@ -3,3 +3,11 @@
 
 # 저자 이메일 주소 정정 안내
 yu-jongwon@naver.com
+
+## English
+
+Building a compiler: the structure and principles of computer programs.
+
+### Author's email address correction
+
+yu-jongwon@naver.com
